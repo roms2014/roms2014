@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🖖 Привет, меня зовут Роман
 
-<!--
-**roms2014/roms2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**_Я — разработчик Golang. Я люблю решать задачи и у меня это получается!_**
 
-Here are some ideas to get you started:
+В разработке использовал разные подходы, имею опыт взаимодействия как с монолитом, так и с микросервисной архитектурой. Люблю чистоту и порядок, что зачистую и отражаю в своём коде, придерживаясь лучших практик чистого кода и паттернов.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Стэк 📚
+
+![golang](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)
+![postgres](https://img.shields.io/badge/postgreSQL-black?style=for-the-badge&logo=postgresql)
+![rabbitmq](https://img.shields.io/badge/rabbitmq-black?style=for-the-badge&logo=rabbitmq)
+![mongodb](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
+![docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
+
+## Немного статистики 📊
+
+![GithubStats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roms2014&theme=dark)
+
+---
+
+Мои контакты
+
+[![telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tishchenko_energy)
