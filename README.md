@@ -12,10 +12,6 @@
 ![mongodb](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
 ![docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
 
-## Немного статистики 📊
-
-![GithubStats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roms2014&theme=dark)
-
 ---
 
 Мои контакты
