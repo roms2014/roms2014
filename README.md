@@ -11,9 +11,3 @@
 ![rabbitmq](https://img.shields.io/badge/rabbitmq-black?style=for-the-badge&logo=rabbitmq)
 ![mongodb](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)
 ![docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
-
----
-
-Мои контакты
-
-[![telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tishchenko_energy)
